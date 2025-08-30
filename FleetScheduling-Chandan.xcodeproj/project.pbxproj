@@ -1,0 +1,572 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		4500CAAD2E5F677500EB630B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4500CA8E2E5F677200EB630B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4500CA952E5F677200EB630B;
+			remoteInfo = "FleetScheduling-Chandan";
+		};
+		4500CAB72E5F677500EB630B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4500CA8E2E5F677200EB630B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4500CA952E5F677200EB630B;
+			remoteInfo = "FleetScheduling-Chandan";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2274F37A2E620FC100AD1DCB /* FleetScheduling-ChandanTests.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = "FleetScheduling-ChandanTests.xctestplan"; sourceTree = "<group>"; };
+		22DC8BE52E620F0F00D7A9B1 /* FleetScheduling-Chandan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = "FleetScheduling-Chandan.xctestplan"; sourceTree = "<group>"; };
+		4500CA962E5F677200EB630B /* FleetScheduling-Chandan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FleetScheduling-Chandan.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4500CAAC2E5F677500EB630B /* FleetScheduling-ChandanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FleetScheduling-ChandanTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4500CAB62E5F677500EB630B /* FleetScheduling-ChandanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FleetScheduling-ChandanUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		4500CABE2E5F677500EB630B /* Exceptions for "FleetScheduling-Chandan" folder in "FleetScheduling-Chandan" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 4500CA952E5F677200EB630B /* FleetScheduling-Chandan */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4500CA982E5F677200EB630B /* FleetScheduling-Chandan */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				4500CABE2E5F677500EB630B /* Exceptions for "FleetScheduling-Chandan" folder in "FleetScheduling-Chandan" target */,
+			);
+			path = "FleetScheduling-Chandan";
+			sourceTree = "<group>";
+		};
+		4500CAAF2E5F677500EB630B /* FleetScheduling-ChandanTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "FleetScheduling-ChandanTests";
+			sourceTree = "<group>";
+		};
+		4500CAB92E5F677500EB630B /* FleetScheduling-ChandanUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "FleetScheduling-ChandanUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4500CA932E5F677200EB630B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4500CAA92E5F677500EB630B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4500CAB32E5F677500EB630B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4500CA8D2E5F677200EB630B = {
+			isa = PBXGroup;
+			children = (
+				2274F37A2E620FC100AD1DCB /* FleetScheduling-ChandanTests.xctestplan */,
+				22DC8BE52E620F0F00D7A9B1 /* FleetScheduling-Chandan.xctestplan */,
+				4500CA982E5F677200EB630B /* FleetScheduling-Chandan */,
+				4500CAAF2E5F677500EB630B /* FleetScheduling-ChandanTests */,
+				4500CAB92E5F677500EB630B /* FleetScheduling-ChandanUITests */,
+				4500CA972E5F677200EB630B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4500CA972E5F677200EB630B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4500CA962E5F677200EB630B /* FleetScheduling-Chandan.app */,
+				4500CAAC2E5F677500EB630B /* FleetScheduling-ChandanTests.xctest */,
+				4500CAB62E5F677500EB630B /* FleetScheduling-ChandanUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4500CA952E5F677200EB630B /* FleetScheduling-Chandan */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4500CABF2E5F677500EB630B /* Build configuration list for PBXNativeTarget "FleetScheduling-Chandan" */;
+			buildPhases = (
+				4500CA922E5F677200EB630B /* Sources */,
+				4500CA932E5F677200EB630B /* Frameworks */,
+				4500CA942E5F677200EB630B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4500CA982E5F677200EB630B /* FleetScheduling-Chandan */,
+			);
+			name = "FleetScheduling-Chandan";
+			packageProductDependencies = (
+			);
+			productName = "FleetScheduling-Chandan";
+			productReference = 4500CA962E5F677200EB630B /* FleetScheduling-Chandan.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4500CAAB2E5F677500EB630B /* FleetScheduling-ChandanTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4500CAC42E5F677500EB630B /* Build configuration list for PBXNativeTarget "FleetScheduling-ChandanTests" */;
+			buildPhases = (
+				4500CAA82E5F677500EB630B /* Sources */,
+				4500CAA92E5F677500EB630B /* Frameworks */,
+				4500CAAA2E5F677500EB630B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4500CAAE2E5F677500EB630B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4500CAAF2E5F677500EB630B /* FleetScheduling-ChandanTests */,
+			);
+			name = "FleetScheduling-ChandanTests";
+			packageProductDependencies = (
+			);
+			productName = "FleetScheduling-ChandanTests";
+			productReference = 4500CAAC2E5F677500EB630B /* FleetScheduling-ChandanTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		4500CAB52E5F677500EB630B /* FleetScheduling-ChandanUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4500CAC72E5F677500EB630B /* Build configuration list for PBXNativeTarget "FleetScheduling-ChandanUITests" */;
+			buildPhases = (
+				4500CAB22E5F677500EB630B /* Sources */,
+				4500CAB32E5F677500EB630B /* Frameworks */,
+				4500CAB42E5F677500EB630B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4500CAB82E5F677500EB630B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				4500CAB92E5F677500EB630B /* FleetScheduling-ChandanUITests */,
+			);
+			name = "FleetScheduling-ChandanUITests";
+			packageProductDependencies = (
+			);
+			productName = "FleetScheduling-ChandanUITests";
+			productReference = 4500CAB62E5F677500EB630B /* FleetScheduling-ChandanUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4500CA8E2E5F677200EB630B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					4500CA952E5F677200EB630B = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					4500CAAB2E5F677500EB630B = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 4500CA952E5F677200EB630B;
+					};
+					4500CAB52E5F677500EB630B = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 4500CA952E5F677200EB630B;
+					};
+				};
+			};
+			buildConfigurationList = 4500CA912E5F677200EB630B /* Build configuration list for PBXProject "FleetScheduling-Chandan" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4500CA8D2E5F677200EB630B;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4500CA972E5F677200EB630B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4500CA952E5F677200EB630B /* FleetScheduling-Chandan */,
+				4500CAAB2E5F677500EB630B /* FleetScheduling-ChandanTests */,
+				4500CAB52E5F677500EB630B /* FleetScheduling-ChandanUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4500CA942E5F677200EB630B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4500CAAA2E5F677500EB630B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4500CAB42E5F677500EB630B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4500CA922E5F677200EB630B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4500CAA82E5F677500EB630B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4500CAB22E5F677500EB630B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4500CAAE2E5F677500EB630B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4500CA952E5F677200EB630B /* FleetScheduling-Chandan */;
+			targetProxy = 4500CAAD2E5F677500EB630B /* PBXContainerItemProxy */;
+		};
+		4500CAB82E5F677500EB630B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4500CA952E5F677200EB630B /* FleetScheduling-Chandan */;
+			targetProxy = 4500CAB72E5F677500EB630B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		4500CAC02E5F677500EB630B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "FleetScheduling-Chandan/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.grabber.FleetScheduling-Chandan";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4500CAC12E5F677500EB630B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "FleetScheduling-Chandan/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.grabber.FleetScheduling-Chandan";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4500CAC22E5F677500EB630B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4500CAC32E5F677500EB630B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4500CAC52E5F677500EB630B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.grabber.FleetScheduling-ChandanTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FleetScheduling-Chandan.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FleetScheduling-Chandan";
+			};
+			name = Debug;
+		};
+		4500CAC62E5F677500EB630B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.grabber.FleetScheduling-ChandanTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FleetScheduling-Chandan.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FleetScheduling-Chandan";
+			};
+			name = Release;
+		};
+		4500CAC82E5F677500EB630B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.grabber.FleetScheduling-ChandanUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "FleetScheduling-Chandan";
+			};
+			name = Debug;
+		};
+		4500CAC92E5F677500EB630B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.grabber.FleetScheduling-ChandanUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "FleetScheduling-Chandan";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4500CA912E5F677200EB630B /* Build configuration list for PBXProject "FleetScheduling-Chandan" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4500CAC22E5F677500EB630B /* Debug */,
+				4500CAC32E5F677500EB630B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4500CABF2E5F677500EB630B /* Build configuration list for PBXNativeTarget "FleetScheduling-Chandan" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4500CAC02E5F677500EB630B /* Debug */,
+				4500CAC12E5F677500EB630B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4500CAC42E5F677500EB630B /* Build configuration list for PBXNativeTarget "FleetScheduling-ChandanTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4500CAC52E5F677500EB630B /* Debug */,
+				4500CAC62E5F677500EB630B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4500CAC72E5F677500EB630B /* Build configuration list for PBXNativeTarget "FleetScheduling-ChandanUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4500CAC82E5F677500EB630B /* Debug */,
+				4500CAC92E5F677500EB630B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4500CA8E2E5F677200EB630B /* Project object */;
+}

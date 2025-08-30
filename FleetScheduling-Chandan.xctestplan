@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "733586EC-5C4C-4320-B078-4B75E11A6495",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FleetScheduling-Chandan.xcodeproj",
+      "identifier" : "4500CA952E5F677200EB630B",
+      "name" : "FleetScheduling-Chandan"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FleetScheduling-Chandan.xcodeproj",
+        "identifier" : "4500CAAB2E5F677500EB630B",
+        "name" : "FleetScheduling-ChandanTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FleetScheduling-Chandan.xcodeproj",
+        "identifier" : "4500CAB52E5F677500EB630B",
+        "name" : "FleetScheduling-ChandanUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

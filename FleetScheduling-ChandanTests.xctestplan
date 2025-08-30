@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "B3668605-9304-47F2-AC96-B179DE12F397",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FleetScheduling-Chandan.xcodeproj",
+        "identifier" : "4500CAAB2E5F677500EB630B",
+        "name" : "FleetScheduling-ChandanTests"
+      }
+    }
+  ],
+  "version" : 1
+}
